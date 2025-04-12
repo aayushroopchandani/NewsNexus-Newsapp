@@ -34,10 +34,22 @@
 
 ## 📸 Preview
 
-![App Demo](https://your-gif-link-here.gif)
-<a href="https://drive.google.com/file/d/1kGpMdJNcRB3I9VuImLfiKo3ajLv4Irq8/view?usp=sharing">Click here to watch full demo video of the newapp</a>
-<!-- Same or another GIF or image preview -->
+<div align="center">
+  <a href="https://drive.google.com/file/d/1kGpMdJNcRB3I9VuImLfiKo3ajLv4Irq8/view?usp=sharing" target="_blank">
+    🎥 <strong>Click here to watch the full demo video of the News App</strong>
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://imgur.com/0Q8fy1O" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  <img src="https://imgur.com/9UcjINa" alt="Screenshot 1" width="300" style="margin: 10px;" />
+  <img src="https://imgur.com/SHnSKUY" alt="Screenshot 2" width="300" style="margin: 10px;" />
+  <img src="https://imgur.com/bdZuCjG" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  <img src="https://imgur.com/etaIWPs" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  
+</div>
 ---
 
 ## ⚙️ Getting Started
