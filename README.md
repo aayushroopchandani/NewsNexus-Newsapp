@@ -16,7 +16,7 @@
 - ✅ 100% **Ad-free** experience  
 - 📝 **Concise** news summaries  
 - 🔊 **Speech-to-text** for each news card  
-- 🔍 **Search** functionality  
+- 🔍 **Search for any keyword** functionality  
 - ➡️ **Next button** to load more news  
 - 🗂️ News categories like **Business, Crime, Politics**, etc.  
 - 🎨 Built with **Bootstrap** for a clean and responsive UI
