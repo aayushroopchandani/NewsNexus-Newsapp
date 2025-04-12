@@ -43,11 +43,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://imgur.com/0Q8fy1O" alt="Screenshot 3" width="300" style="margin: 10px;" />
-  <img src="https://imgur.com/9UcjINa" alt="Screenshot 1" width="300" style="margin: 10px;" />
-  <img src="https://imgur.com/SHnSKUY" alt="Screenshot 2" width="300" style="margin: 10px;" />
-  <img src="https://imgur.com/bdZuCjG" alt="Screenshot 3" width="300" style="margin: 10px;" />
-  <img src="https://imgur.com/etaIWPs" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  <img src="https://i.imgur.com/0Q8fy1O.png" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  <img src="https://i.imgur.com/etaIWPs.png" alt="Screenshot 1" width="300" style="margin: 10px;" />
+  <img src="https://i.imgur.com/bdZuCjG.png" alt="Screenshot 2" width="300" style="margin: 10px;" />
+  <img src="https://i.imgur.com/SHnSKUY.png" alt="Screenshot 3" width="300" style="margin: 10px;" />
+  <img src="https://i.imgur.com/9UcjINa.png" alt="Screenshot 3" width="300" style="margin: 10px;" />
   
 </div>
 ---
