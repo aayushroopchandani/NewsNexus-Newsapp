@@ -34,7 +34,9 @@
 
 ## 📸 Preview
 
-![App Demo](https://your-gif-link-here.gif) <!-- Same or another GIF or image preview -->
+![App Demo](https://your-gif-link-here.gif)
+<a href="https://drive.google.com/file/d/1kGpMdJNcRB3I9VuImLfiKo3ajLv4Irq8/view?usp=sharing">Click here to watch full demo video of the newapp</a>
+<!-- Same or another GIF or image preview -->
 
 ---
 
