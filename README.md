@@ -1,8 +1,13 @@
-# 🗞️ React News App
+<h1 align="center">🗞️ React News App</h1>
 
-![News App Preview](https://your-gif-link-here.gif) <!-- Replace this with your actual GIF link -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk1cGkyOGRiZnF5M3FsbDllNGdwd3Q3MnZrenZ1YnVlcDZlMHJ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgvKZG71Y4lDAKlOhY/giphy.gif" alt="News App Preview" width="600" />
+</div>
 
-A clean and minimalistic **React** news application that brings you **short, ad-free**, and **speech-enabled** news updates. Browse through different categories like **Business, Crime, Politics**, and more!
+<p align="center">
+  A clean and minimalistic <strong>React</strong> news application that brings you <strong>short, ad-free</strong>, and <strong>speech-enabled</strong> news updates.<br/>
+  Browse through categories like <strong>Business, Crime, Politics</strong>, and more!
+</p>
 
 ---
 
