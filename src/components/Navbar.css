@@ -1,0 +1,15 @@
+@media only screen and (max-width: 650px) {
+   .navigate{
+    display: none;
+   }
+}
+
+@media only screen and (max-width: 570px) {
+    .logo{
+        height: 20px;
+        margin-right: 8px;
+    }
+    .logoName{
+        font-size: 1.1rem;
+    }
+ }

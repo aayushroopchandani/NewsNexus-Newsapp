@@ -1,0 +1,15 @@
+#progressBar{
+    /* animation: load 1.2s linear 1; */
+    transition: all 0.4s linear;
+}
+/* @keyframes load {
+    0%{
+        width: 0vw;
+    }
+    50%{
+        width: 30vw;
+    }
+    100%{
+        width: 100vw;
+    }
+} */

@@ -1,3 +1,46 @@
+# 🗞️ React News App
+
+![News App Preview](https://your-gif-link-here.gif) <!-- Replace this with your actual GIF link -->
+
+A clean and minimalistic **React** news application that brings you **short, ad-free**, and **speech-enabled** news updates. Browse through different categories like **Business, Crime, Politics**, and more!
+
+---
+
+## 🚀 Features
+
+- ✅ 100% **Ad-free** experience  
+- 📝 **Concise** news summaries  
+- 🔊 **Speech-to-text** for each news card  
+- 🔍 **Search** functionality  
+- ➡️ **Next button** to load more news  
+- 🗂️ News categories like **Business, Crime, Politics**, etc.  
+- 🎨 Built with **Bootstrap** for a clean and responsive UI
+
+---
+
+## 📦 Tech Stack
+
+- **React**
+- **JavaScript**
+- **Bootstrap 5**
+- **News API**
+
+---
+
+## 📸 Preview
+
+![App Demo](https://your-gif-link-here.gif) <!-- Same or another GIF or image preview -->
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/react-news-app.git
+cd react-news-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

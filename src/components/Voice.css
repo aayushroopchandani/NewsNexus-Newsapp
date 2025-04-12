@@ -1,0 +1,39 @@
+:root {
+    --dot-size: 1.25rem;
+    --max-block-size: calc(var(--dot-size) * 5);
+    --dot-color: lch(80.94% 62.75 148.82);
+    --dot-color-transition-1: lch(59.2% 85.33 318.2);
+    --dot-color-transition-2: lch(95.29% 85.33 97.41);
+    --delay: 0ms;
+}
+
+
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: calc(var(--dot-size) / 2);
+    block-size: var(--max-block-size);
+}
+
+.dot {
+    inline-size: var(--dot-size);
+    block-size: var(--dot-size);
+    border-radius: calc(var(--dot-size) / 2);
+    background: var(--dot-color);
+    animation: y-grow 2s infinite ease-in-out;
+    animation-delay: calc(var(--delay) * 1ms);
+}
+
+@keyframes y-grow {
+    25% {
+        block-size: var(--max-block-size);
+        background-color: var(--dot-color-transition-1);
+    }
+
+    50% {
+        block-size: var(--dot-size);
+        background-color: var(--dot-color-transition-2);
+    }
+}

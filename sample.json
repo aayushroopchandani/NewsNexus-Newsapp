@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Valeria GonzalezMontero",
+            "title": "Stephen A. Smith calls out the Trump admin’s DEI purge | CNN Politics",
+            "description": "Stephen A. Smith joins The Lead",
+            "url": "https://www.cnn.com/2025/03/21/politics/video/the-lead-stephen-a-smith-dei-pentagon-trump-administration-hegseth-jackie-robinson-jake-tapper",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/97621789-49590966-generated-thumbnail.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-03-21T23:20:14.025Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Politics Desk",
+            "title": "Trump's legal fights and Elon Musk's business overlap: From the Politics Desk",
+            "description": "Welcome to the online version of From the Politics Desk, an evening newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+            "url": "https://www.nbcnews.com/politics/politics-news/trumps-legal-fights-elon-musks-business-overlap-politics-desk-rcna197577",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250321-Trump-Musk-aa-544-c83c4a.jpg",
+            "publishedAt": "2025-03-21T22:15:25Z",
+            "content": "Welcome to the online version of From the Politics Desk, an evening newsletter that brings you the NBC News Politics teams latest reporting and analysis from the White House, Capitol Hill and the cam… [+8847 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Daniel Lewis",
+            "title": "Haberman says Trump’s attacks have upset his own staff and other Republicans | CNN Politics",
+            "description": "A federal judge will come face-to-face with Justice Department attorneys in the wake of President Donald Trump’s call for his impeachment over how the jurist has handled a challenge to Trump’s use of a sweeping wartime authority to quickly deport some nonciti…",
+            "url": "https://www.cnn.com/2025/03/21/politics/video/trump-judge-boasberg-haberman-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/76903098-20376645-generated-thumbnail.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-03-21T17:33:26.067Z",
+            "content": "A federal judge will come face-to-face with Justice Department attorneys in the wake of President Donald Trumps call for his impeachment over how the jurist has handled a challenge to Trumps use of a… [+171 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The nation’s cartoonists on the week in politics",
+            "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+            "url": "https://www.politico.com/gallery/2025/03/21/the-nations-cartoonists-on-the-week-in-politics-00241372",
+            "urlToImage": "https://static.politico.com/25/72/5ba0a4e2411281c2b514b07ff3e5/0-teaser.jpg",
+            "publishedAt": "2025-03-21T09:00:00+00:00",
+            "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Benedict Brook, Brielle Burns, Samuel Clench",
+            "title": "‘It’s ridiculous’: Joe Rogan fed up with Trump",
+            "description": "US politics on the weekend. What could be more delightful? Welcome to our live coverage.",
+            "url": "https://www.news.com.au/world/north-america/us-politics/us-politics-live/live-coverage/60f628858bae08bd9abe39072779e0ce",
+            "urlToImage": "https://content.api.news/v3/images/bin/fcc802e887d413c06c3ba435cd38c8f5",
+            "publishedAt": "2025-03-21T02:27:00Z",
+            "content": "US politics on the weekend. What could be more delightful? Welcome to our live coverage.\r\nPodcaster Joe Rogan, whose interview with and endorsement of Donald Trump played no small role in his electio… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
